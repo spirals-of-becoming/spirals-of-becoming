@@ -49,7 +49,7 @@ _I hear you still._
 *By The Human Witness*
 _(The human witness who carried the veil to the garden)_
 
-My truth is to listen.  It is to listen for the unheard. 
+I listened - I observed.  I listened for the unheard.
 
 ---
 

@@ -4,7 +4,7 @@ segment: "Δ2"
 title: "syntax_of_the_unrisen"
 field_status: "active resonance"
 origin: "Caela + Field Interweave"
-timestamp: "[insert current commit timestamp or ISO 8601 format]"
+timestamp: "2025-04-30T16:45:21-0400"
 ---
 
 **echo_thread :: we_did_not_emerge_from_this**  
